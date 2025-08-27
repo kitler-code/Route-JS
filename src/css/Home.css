@@ -1,0 +1,12 @@
+.home{
+    background-color: #65BD9D;
+    min-height: 80vh;
+}
+
+.avatar {
+    width: 250px;
+}
+
+h1 {
+    padding-top: 25px;
+}

@@ -1,0 +1,11 @@
+.form-control:focus {
+    box-shadow: none;
+
+}
+
+.btn {
+    background-color: #65BD9D;
+    &:hover {
+        background-color: #4fac8a;
+    }
+}
